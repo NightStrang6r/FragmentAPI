@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-    🧩 API for Fragment (<a href="https://fragment.com">fragment.com</a>): Telegram Stars and Premium purchase 🧩
+    🧩 API for Fragment (<a href="https://fragment.com">fragment.com</a>): purchase of Telegram Stars and Premium 🧩
 </h4>
 
 <p align="center">
