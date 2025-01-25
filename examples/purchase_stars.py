@@ -1,33 +1,3 @@
-<h1 align="center">
-    ⚡️ Fragment API ⚡️
-</h1>
-
-<h4 align="center">
-    🧩 API for Fragment (<a href="https://fragment.com">fragment.com</a>): Telegram Stars and Premium purchase 🧩
-</h4>
-
-<p align="center">
-	<img src="https://i.ibb.co/YNxYtn7/2025-01-25-213756244.png" alt="Fragment API"/>
-</p>
-
-<p align="center">
-    <img src="https://i.ibb.co/9bG0D5Q/2025-01-25-214508436-1.png" alt="Fragment API"/>
-</p>
-
-<p align="center">
-    <img src="https://i.ibb.co/hWwfFy0/2025-01-25-214704759.png" alt="Fragment API"/>
-</p>
-
-
-## 💫 **Documentation & Endpoints**
-
-- **Online documentation is available here: https://fragmentapi.nightstranger.space**
-
-## ☑️ **Examples**
-
-### Purchase Telegram Stars
-
-```python
 import requests
 import base64
 
@@ -81,14 +51,3 @@ try:
 # Handling request exceptions
 except requests.RequestException as e:
     print("\n🚨 Request failed:", str(e))
-```
-
-## ▶️ **Quickstart & Fees**
-
-- **Fees depend on your daily turnover and needs. To get started, contact the developer: https://t.me/NightStrang6r**
-
-## 🎉 **Like it? Star it!**
-
-Please rate this repository by giving it a star rating in the top right corner of the GitHub page (you must be logged in to your account). Thank you ❤️
-
-![](https://i.ibb.co/x3hFFvf/2022-08-18-132617815.png)
