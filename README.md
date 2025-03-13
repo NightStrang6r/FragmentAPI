@@ -23,6 +23,20 @@
 
 - **Online documentation is available here: https://fragmentapi.nightstranger.space**
 
+## 📌 **Requierements**
+
+- ✅ TON Wallet v4r2 🪙
+
+- ✅ TON Wallet should be Active (send any transaction from it)  🪙
+
+- ✅ Fragment account with linked TON wallet and Telegram account 🔗
+
+- ✅ KYC verification on Fragment 🆔
+
+- ✅ Export cookies from Fragment 🍪 (as Header String using Cookie Editor extension)
+
+- ✅ Seed and fragment cookies should be base64-encoded 🔐
+
 ## ☑️ **Examples**
 
 ### Purchase Telegram Stars
