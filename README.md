@@ -21,7 +21,7 @@
 
 ## 💫 **Documentation & Endpoints**
 
-- **Online documentation is available here: https://fragmentapi.nightstranger.space**
+- **Online documentation is available here: https://fragment-api.net**
 
 ## 📌 **Requierements**
 
