@@ -21,25 +21,25 @@
 
 ## 🚀 **Features**
 
-- 💸 **Purchase Telegram Stars & Premium** — easily buy Telegram Stars or Telegram Premium for any user
+- 💸 **Purchase Telegram Stars & Premium**
 
-- ⚡️ **Works with or without KYC** — ready for both verified and non-verified Fragment accounts
+- ⚡️ Works **with** or **without** KYC
 
-- 🔐 **Full End-to-End encryption** — all sensitive data is encoded and securely transmitted
+- 🔂 Bypass Fragment **purchase limits**
 
-- 🧩 **No API Key required** — simple access without any API token setup
+- 🔐 Full **end-to-end** encryption
 
-- 💙 **No TON API required** — no need for separate TON API integration
+- 🧩 No **API key** or registration required
 
-- 📈 **Multi-transaction support** — process multiple purchases efficiently
+- 💙 No TON API required
 
-- 🔁 **Simple integration** — clean Python examples ready for automation workflows
+- 📈 **Multi-transaction** support
 
-- 📈 **Optimized for automation** — perfect for bots, websites, or marketplaces
+- 🔁 Simple integration
 
-- 🧪 **Validation & error handling** — structured responses with clear error messages
+- 📈 Optimized **for automation**
 
-- 🧠 **Developer-friendly** — minimal setup, detailed usage examples, and responsive support
+- 🧠 Developer-friendly
 
 ## 🌐 **Documentation & Endpoints**
 
@@ -71,7 +71,7 @@
 import requests
 import base64
 
-url = "https://fragmentapi.nightstranger.space/buyStars"
+url = "https://api.fragment-api.net/buyStars"
 headers = {
     "Content-Type": "application/json"
 }
