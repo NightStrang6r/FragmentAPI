@@ -27,7 +27,11 @@
 
 - ✅ TON Wallet v4r2 🪙
 
-- ✅ TON Wallet should be Active (send any transaction from it)  🪙
+- ✅ TON Wallet should be Active (send any transaction from it) 🪙
+
+- ✅ Seed should be base64-encoded 🔐
+
+## 📌 **Requierements if you use your own Fragment account**
 
 - ✅ Fragment account with linked TON wallet and Telegram account 🔗
 
@@ -35,7 +39,7 @@
 
 - ✅ Export cookies from Fragment 🍪 (as Header String using Cookie Editor extension)
 
-- ✅ Seed and fragment cookies should be base64-encoded 🔐
+- ✅ Fragment cookies should be base64-encoded 🔐
 
 ## ☑️ **Examples**
 
