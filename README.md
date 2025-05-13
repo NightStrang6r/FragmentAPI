@@ -19,11 +19,33 @@
 </p>
 
 
-## 💫 **Documentation & Endpoints**
+## 🚀 **Features**
 
-- **Online documentation is available here: https://fragment-api.net**
+- 💸 Purchase Telegram Stars & Premium — easily buy Telegram Stars or Telegram Premium for any user
 
-## 📌 **Requierements**
+- ⚡️ Works With or Without KYC — flexible setup for both verified and non-verified Fragment accounts
+
+- 🔐 Full End-to-End Encryption — all sensitive data is encoded and securely transmitted
+
+- 🧩 No API Key Required — simple access without any API token setup
+
+- ⚡️ No TON API required — no need for separate TON API integration
+
+- 📈 Multi-Transaction Support — process multiple purchases efficiently
+
+- 🔁 Simple Integration — clean Python examples ready for automation workflows
+
+- 📈 Optimized for Automation — perfect for bots, websites, or marketplaces
+
+- 🧪 Validation & Error Handling — structured responses with clear error messages
+
+- 🧠 Developer-Friendly — minimal setup, detailed usage examples, and responsive support
+
+## 🌐 **Documentation & Endpoints**
+
+**Online documentation is available here: https://fragment-api.net**
+
+## 📌 **Requirements**
 
 - ✅ TON Wallet v4r2 🪙
 
@@ -31,7 +53,7 @@
 
 - ✅ Seed should be base64-encoded 🔐
 
-## 📌 **Requierements if you use your own Fragment account**
+## 📌 **Requirements if you use your own Fragment account**
 
 - ✅ Fragment account with linked TON wallet and Telegram account 🔗
 
@@ -43,7 +65,7 @@
 
 ## ☑️ **Examples**
 
-### Purchase Telegram Stars
+### ✨ Purchase Telegram Stars
 
 ```python
 import requests
@@ -103,7 +125,7 @@ except requests.RequestException as e:
 
 ## ▶️ **Quickstart & Fees**
 
-- **Fees depend on your daily turnover and needs. To get started, contact the developer: https://t.me/NightStrang6r**
+- **Fees depend on your daily turnover and needs. To get more information, contact the developer: https://t.me/NightStrang6r**
 
 ## 🎉 **Like it? Star it!**
 
