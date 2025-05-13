@@ -21,25 +21,25 @@
 
 ## 🚀 **Features**
 
-- 💸 Purchase Telegram Stars & Premium — easily buy Telegram Stars or Telegram Premium for any user
+- 💸 **Purchase Telegram Stars & Premium** — easily buy Telegram Stars or Telegram Premium for any user
 
-- ⚡️ Works With or Without KYC — flexible setup for both verified and non-verified Fragment accounts
+- ⚡️ **Works with or without KYC** — ready for both verified and non-verified Fragment accounts
 
-- 🔐 Full End-to-End Encryption — all sensitive data is encoded and securely transmitted
+- 🔐 **Full End-to-End encryption** — all sensitive data is encoded and securely transmitted
 
-- 🧩 No API Key Required — simple access without any API token setup
+- 🧩 **No API Key required** — simple access without any API token setup
 
-- ⚡️ No TON API required — no need for separate TON API integration
+- 💙 **No TON API required** — no need for separate TON API integration
 
-- 📈 Multi-Transaction Support — process multiple purchases efficiently
+- 📈 **Multi-transaction support** — process multiple purchases efficiently
 
-- 🔁 Simple Integration — clean Python examples ready for automation workflows
+- 🔁 **Simple integration** — clean Python examples ready for automation workflows
 
-- 📈 Optimized for Automation — perfect for bots, websites, or marketplaces
+- 📈 **Optimized for automation** — perfect for bots, websites, or marketplaces
 
-- 🧪 Validation & Error Handling — structured responses with clear error messages
+- 🧪 **Validation & error handling** — structured responses with clear error messages
 
-- 🧠 Developer-Friendly — minimal setup, detailed usage examples, and responsive support
+- 🧠 **Developer-friendly** — minimal setup, detailed usage examples, and responsive support
 
 ## 🌐 **Documentation & Endpoints**
 
@@ -76,7 +76,7 @@ headers = {
     "Content-Type": "application/json"
 }
 
-username = "@example_user"  # Replace with the Telegram username
+username = "@durov"  # Replace with the Telegram username
 amount = 100  # Replace with the number of stars to purchase
 fragment_cookies = base64.b64encode(b"your_fragment_cookies").decode("utf-8")  # Replace with Fragment cookies (Copy from Cookie Editor extension as "Header String")
 seed = base64.b64encode(b"your_seed").decode("utf-8")  # Replace with TON seed
@@ -125,10 +125,16 @@ except requests.RequestException as e:
 
 ## ▶️ **Quickstart & Fees**
 
-- **Fees depend on your daily turnover and needs. To get more information, contact the developer: https://t.me/NightStrang6r**
+**Fees depend on your daily turnover and needs. To get more information, contact the developer: https://t.me/NightStrang6r**
 
 ## 🎉 **Like it? Star it!**
 
 Please rate this repository by giving it a star rating in the top right corner of the GitHub page (you must be logged in to your account). Thank you ❤️
 
 ![](https://i.ibb.co/x3hFFvf/2022-08-18-132617815.png)
+
+## 📄 **License**
+
+© Leonid Tsaruk 2025
+
+This repository is licensed under GNU GENERAL PUBLIC LICENSE.
